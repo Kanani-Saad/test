@@ -1,7 +1,3 @@
-To post this guide as documentation in your GitHub repository, you can create a **README.md** file. This file is usually used to provide an overview of your project and can include any instructions, such as the steps you’ve written here.
-
-Here’s how to do it:
-
 ### Step 1: Create a README.md File
 1. In your project folder, create a new file named `README.md`.
 2. Open the file in a text editor and paste the instructions you’ve written:
@@ -67,4 +63,3 @@ Here’s how to do it:
    ### Notes
    - The script may take a few minutes to run because it makes multiple commits.
    - Check your GitHub repository to confirm the commits have been pushed.
-   ```
